@@ -11,3 +11,6 @@ There is also background music running constantly when playing the game, and act
 Tools used
 
 The game was built using the basic properties of JavaScript and the properties provided by Phaser. The sound effects of the game and background music were downloaded from freesound.org. The graphical objects were created using “Dall-E 2”. All functionalities are included in the same JavaScript file called “basic.js”. The HTML file includes just the minimum required to make the game work properly. There are definitions for the player input field, which has a display property set to “gone” at the beginning and the scoreboard table, which is also set to invisible at the beginning. CSS file is empty since it was not much use in simple game implementation. Some basic CSS style properties are set in the HTML file for the scoreboard to be in the right place (center of the screen). The scoreboard table is filled dynamically in the JavaScript file.
+
+
+NOTE! The game is not optimized in any way, it's just a small project to learn the basics of creating games!
